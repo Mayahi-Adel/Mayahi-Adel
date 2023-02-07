@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Mayahi Adel
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning React, Redux, NodeJs, NoSQL, AWS ...
-- 💞️ I’m looking to a new challege - CDI web developer in ile-de-france
-- 📫 How to reach me : https://www.linkedin.com/in/adel-mayahi/
+- 🌱 I’m currently learning React, Redux, NodeJs, NoSQL, AWS, react-native ...
+
 
 <!---
 Mayahi-Adel/Mayahi-Adel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
